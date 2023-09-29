@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Regis-blue/static/css/main.17bff7d1.css",
+    "main.js": "/Regis-blue/static/js/main.8337169f.js",
+    "static/js/787.d4a5a076.chunk.js": "/Regis-blue/static/js/787.d4a5a076.chunk.js",
+    "index.html": "/Regis-blue/index.html",
+    "main.17bff7d1.css.map": "/Regis-blue/static/css/main.17bff7d1.css.map",
+    "main.8337169f.js.map": "/Regis-blue/static/js/main.8337169f.js.map",
+    "787.d4a5a076.chunk.js.map": "/Regis-blue/static/js/787.d4a5a076.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17bff7d1.css",
+    "static/js/main.8337169f.js"
+  ]
+}
